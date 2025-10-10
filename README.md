@@ -102,7 +102,7 @@ Below you can find the list of speakers, each linked to their **video**, **paper
 
 ### Ulf Hlobil  
 *Concordia University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](https://uzh.zoom.us/rec/play/VojM4XFEPAmrAIPYFnQ44dUpb72qx6L-Ao2IBzNVhVaMxXh8PJETltn01qMaCuvV99CC3P3aJU3jOzxE.X9AeXnP8MZGBD5pB?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&pwd=DLagIYlnQV-SLCQz8gAAIAAAAEM9gIWeEx8nvig3QU_Xb4T3GA5NzzDrcbo-r3B4OBDHLqPkGzka4WlCm73kw5pJPTAwMDAwNA&componentName=rec-play&originRequestUrl=https%3A%2F%2Fuzh.zoom.us%2Frec%2Fshare%2Feic3xbYj9523MZDH6umEhq1wLCATheAwRxHUOsNRq32Pk0CdVynBnRWk3Kr1sBba.pi28K2Uz3UhD_efk%3Fpwd%3DDLagIYlnQV-SLCQz8gAAIAAAAEM9gIWeEx8nvig3QU_Xb4T3GA5NzzDrcbo-r3B4OBDHLqPkGzka4WlCm73kw5pJPTAwMDAwNA) 📄 [Read paper](#)  
 📝 _Summary coming soon_
 
 ---
