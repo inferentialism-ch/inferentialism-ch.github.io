@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis est ut turpi
 # Papers
 - Author A: Paper Name A (with link to paper)
 - Author B: Paper Name B
-...
+- Example Exampleson
 
 # Recordings
 - Author A: Recording (with link to recording)
