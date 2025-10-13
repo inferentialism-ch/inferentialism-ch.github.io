@@ -103,18 +103,18 @@ _Summary coming soon_
 
 ---
 
-### Robert Brandom’s Analytic Pragmatism and the Life of Legal Systems
-**Joshua Nicols** /
+### Brandom’s Hegelian Model: What It Can Offer and What It Rules Out in the Legal Domain
+**Thomas Bustamente** /
 *Coming Soon*  
-[Watch video](https://youtu.be/KH5A7W0bln0) 📄 [Read abstract](#)  
-_Summary coming soon_
+[Watch video](https://youtu.be/KH5A7W0bln0) 📄 [Read paper](https://drive.google.com/file/d/1Hdjey8qy8-b7CohxKaeUx3VpcD8JLpV6/view?usp=sharing)  
+_Unifinished: Summary and paper coming soon_
 
 ---
 
 ### Incomparable Values in Legal Adjudication
 **Emmanuel Voyiakis** /
 *LSE*  
-[Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read paper](https://drive.google.com/file/d/12pKhyI1sq90WObt7REUIOKYGKwFZmrFq/view?usp=sharing)  
 _Summary coming soon_
 
 ---
@@ -130,7 +130,7 @@ _Summary coming soon_
 ### Implication Space Semantics and Legal Methodology
 **Peter Hongler** /
 *University of St. Gallen*  
-[Watch video](https://youtu.be/1-r_RTEyvk0) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/1-r_RTEyvk0) 📄 [Read paper](https://drive.google.com/file/d/18U7O7Y-tKlIrxi3aT53ipkFQyt8DbdV7/view?usp=sharing)  
 _Summary coming soon_
 
 ---
@@ -154,7 +154,7 @@ _Summary coming soon_
 ### What makes a material inference valid?
 **Jaakko Reinikainen** /
 *Tampere University*  
-[Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read paper](https://drive.google.com/file/d/1gxkRgawP6oegYjkLvT_iOj7swhBuBAqv/view?usp=sharing)  
 _Summary coming soon_
 
 ---
@@ -186,7 +186,7 @@ _Summary coming soon_
 ### Beyond the Imitation Game: The Failure of LLMs to Participate in the Social Practice of Giving and Asking for Reasons
 **Bahareh Izadi** /
 *Concordia University*  
-[Watch video](https://youtu.be/QSBgcX4Sfhc) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/QSBgcX4Sfhc) 📄 [Read paper](https://drive.google.com/file/d/1RERw-42TIpmEYUmUdbTzIeBa3fobyjj7/view?usp=sharing)  
 _Summary coming soon_
 
 ---
