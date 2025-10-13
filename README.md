@@ -159,6 +159,62 @@ _Summary coming soon_
 
 ---
 
+### Sapience without Sentience: An Inferentialist Approach to LLMs
+**Ryan Simonelli** /
+*Wuhan University*  
+[Watch video](https://youtu.be/_kaOeC9q-EU) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Virtual Double Categories: a Formal Model of Open Reason Relations for Neurosymbolic AI.
+**Kristopher Brown** /
+*Topos Institute*  
+[Watch video](https://youtu.be/gpjISWcppko) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Inferentialism After the Inversion: Intelligence, Containment, and the Collapse of Representation
+**Mihai Avrigeanu** /
+*Concordia University*  
+[Watch video](https://youtu.be/B0UeIZEkr8U) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Beyond the Imitation Game: The Failure of LLMs to Participate in the Social Practice of Giving and Asking for Reasons
+**Bahareh Izadi** /
+*Concordia University*  
+[Watch video](https://youtu.be/QSBgcX4Sfhc) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Why Software, Including LLMs, Might Not Be Able to Engage in Norm-Governed Practices, Such As Speaking
+**Reto Gubelmann** /
+*University of Zurich*  
+[Watch video](https://youtu.be/9Xu2WjYh3vw) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Do LLMs reason (circa 2025)?
+**André Freitas** /
+*University of Manchester*  
+[Watch video](https://youtu.be/xN0VsOxHkDo) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Nature and Artificial Intelligence
+**Ulf Hlobil** /
+*Concordia University*  
+[Watch video](https://youtu.be/7ehlzzhBKnM) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
 
 ## Organisers
 
