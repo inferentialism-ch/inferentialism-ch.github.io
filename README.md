@@ -11,7 +11,9 @@ The recent publication of *"Reasons for Logic, Logic for Reasons"* marked a mile
 This conference offered a first collective take on the book’s reception and its potential operationalization across diverse fields, including the philosophy of language, law, linguistics and information theory.
 
 
-The event featured contributions from leading scholars and promising early-career researchers.  
+The event featured contributions from leading scholars and promising early-career researchers.
+
+📎 [RRR Conference Program (PDF)](https://philevents.org/event/fileDownload/135581?fileId=18602)
 
 ---
 
@@ -96,22 +98,11 @@ _Summary coming soon_
 
 ## Organisers
 
-- Reto Gubelmann — *University of Zürich*  
-- Peter Hongler — *University of St. Gallen*  
-- Ghassen Karray — *University of Zürich*  
-- Marco Toscano — *University of Zürich*  
+- **Reto Gubelmann** / *University of Zürich*  
+- **Peter Hongler** / *University of St. Gallen*  
+- **Ghassen Karray** / *University of Zürich*  
+- **Marco Toscano** / *University of Zürich*  
 
----
-
-### Supporting Material
-
-📎 [RRR Conference Program (PDF)](RRR%20Conference%20Program.pdf)
-
----
-
-### About
-
-This conference was part of an ongoing dialogue exploring **inferentialism**, **rationality**, and **reasons** across disciplines — connecting logic, epistemology, law, and artificial intelligence.
 
 ---
 
