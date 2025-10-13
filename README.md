@@ -131,7 +131,7 @@ _Unifinished: Summary and paper coming soon_
 ### Incomparable Values in Legal Adjudication
 **Emmanuel Voyiakis** /
 *LSE*  
-[Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read paper](https://drive.google.com/file/d/12pKhyI1sq90WObt7REUIOKYGKwFZmrFq/view?usp=sharing) 🗣 [See presentation] (https://docs.google.com/presentation/d/1v9Q3uCdav_p9JshX47MM2Uj5GDB7V68V/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
+[Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read paper](https://drive.google.com/file/d/12pKhyI1sq90WObt7REUIOKYGKwFZmrFq/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1v9Q3uCdav_p9JshX47MM2Uj5GDB7V68V/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
 _Summary coming soon_
 
