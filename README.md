@@ -39,70 +39,70 @@ Below you can find the list of speakers, each linked to their **video**, **paper
 
 ### Mihai Avrigeanu  
 *Concordia University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Robert Brandom  
 *University of Pittsburgh*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Kristopher Brown  
 *Topos Institute (Berkeley)*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Thomas Bustamante  
 *Federal University of Minas Gerais*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Pedro Caballero Elbersci  
 *University Iberoamericana, Mexico City*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Damiano Canale  
 *Università Commerciale Luigi Bocconi*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### André Freitas  
 *University of Manchester*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Karlo Gardavski  
 *University of Zagreb*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Rea Golan  
 *Ben-Gurion University of the Negev*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
+🎥 [Watch video](#) 📄 [Read abstract](#)  
 📝 _Summary coming soon_
 
 ---
 
 ### Ulf Hlobil  
 *Concordia University*  
-🎥 [Watch video](https://uzh.zoom.us/rec/play/VojM4XFEPAmrAIPYFnQ44dUpb72qx6L-Ao2IBzNVhVaMxXh8PJETltn01qMaCuvV99CC3P3aJU3jOzxE.X9AeXnP8MZGBD5pB?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&pwd=DLagIYlnQV-SLCQz8gAAIAAAAEM9gIWeEx8nvig3QU_Xb4T3GA5NzzDrcbo-r3B4OBDHLqPkGzka4WlCm73kw5pJPTAwMDAwNA&componentName=rec-play&originRequestUrl=https%3A%2F%2Fuzh.zoom.us%2Frec%2Fshare%2Feic3xbYj9523MZDH6umEhq1wLCATheAwRxHUOsNRq32Pk0CdVynBnRWk3Kr1sBba.pi28K2Uz3UhD_efk%3Fpwd%3DDLagIYlnQV-SLCQz8gAAIAAAAEM9gIWeEx8nvig3QU_Xb4T3GA5NzzDrcbo-r3B4OBDHLqPkGzka4WlCm73kw5pJPTAwMDAwNA) 📄 [Read paper](#)  
+🎥 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read paper](#)  
 📝 _Summary coming soon_
 
 ---
