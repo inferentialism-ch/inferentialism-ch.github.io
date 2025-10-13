@@ -5,14 +5,11 @@
 
 ### Overview
 
-We are excited to announce the international conference **Exploring Reasons, Rationality, and Rationalism**, held at the **University of Zürich** from **10–13 September 2025**.
+We are excited to announce the international conference **Exploring Reasons, Rationality, and Rationalism**, held at the **University of Zürich** between the 10th and the 13th of September 2025.
 
-The publication of *"Reasons for Logic, Logic for Reasons"* (Brandom & Hlobil, 2024) marked a milestone for the technical and philosophical development of inferentialist logic.  
-This conference offered a first collective take on the book’s reception and its potential operationalization across diverse fields, including:
+The recent publication of *"Reasons for Logic, Logic for Reasons"* marked a milestone for the technical and philosophical development of inferentialist logic.  
+This conference offered a first collective take on the book’s reception and its potential operationalization across diverse fields, including the philosophy of language, law, linguistics and information theory.
 
-- Philosophy of Language  
-- Philosophy of Computing and Information  
-- Philosophy of Law  
 
 The event featured contributions from leading scholars and promising early-career researchers.  
 
@@ -35,17 +32,63 @@ The event featured contributions from leading scholars and promising early-caree
 Below you can find the list of speakers, each linked to their **video**, **abstract**, and a short **summary**. 
 
 ---
-## Conceptual Content in Reasons for Logic 
-### Ulf Hlobil  
+### Conceptual Content in Reasons for Logic 
+**Ulf Hlobil** /
 *Concordia University*  
 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#)  
 _Summary coming soon_
 
 ---
 
-### Luca Incurvati  
+### De dicto entitlement, de re entitlement, and entitlement-dissonance: An inferentialist reading to Jean Paul’s notion of Ridiculous and Hegel’s *Phenomenology of Spirit*
+**Marcello Ruta** /
+*Universität Bern*  
+[Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+
+---
+
+### The Social Articulation of Content: Why Social Externalists Should be Inferentialists and Vice Versa
+**Shuhei Shimamura** /
+*Hiroshima University*  
+[Watch video](https://youtu.be/r5aDHUktA-M) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+
+---
+
+### Three Kinds of Logical Expressivism
+**Luca Incurvati** /
 *University of Amsterdam*  
-[Watch video](#) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+
+---
+
+### Inferentialism and Modesty
+**Rea Golan** /
+*Ben-Gurion University of the Negev*  
+[Watch video](https://youtu.be/G2aVnEVlY04) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+
+---
+
+### Epistemological Normativism and the Expressive Limits of Inferential Logic: Between Sellars and Brandom
+**Omar Mahmutović** /
+*University of Sarajevo*  
+[Watch video](https://youtu.be/4KCbPDQBZEI) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+
+---
+
+### A Tune Beyond Us, Yet Ourselves: Reasons and Conceptual Realism
+**Robert Brandom** /
+*University of Pittsburgh*  
+[Watch video](https://youtu.be/NsSc5q0d8uA) 📄 [Read abstract](#)  
 _Summary coming soon_
 
 
