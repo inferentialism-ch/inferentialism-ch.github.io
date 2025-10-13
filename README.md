@@ -42,6 +42,14 @@ Below you can find the list of speakers, each linked to their **video**, **abstr
 _Unfinished: Summary coming soon_
 
 ---
+### Reconciliation and the Spectre of Legal Skepticism: A Pragmatist Reading of Rule-Following and Legal Authority from Hart to Brandom  
+**J. B. D. Nichols** /
+*McGill University*  
+📄 [Read paper](https://drive.google.com/file/d/1GgTA9SCG08ceJzVTJuC0ACH15f7lEsDA/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1-x1CVaafsuakzNa9U2fSyhDtoO8fhxK0/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
+
+_Unfinished: Summary coming soon_
+
+---
 
 ### De dicto entitlement, de re entitlement, and entitlement-dissonance: An inferentialist reading to Jean Paul’s notion of Ridiculous and Hegel’s *Phenomenology of Spirit*
 **Marcello Ruta** /
