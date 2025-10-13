@@ -37,7 +37,7 @@ Below you can find the list of speakers, each linked to their **video**, **abstr
 ### Conceptual Content in Reasons for Logic 
 **Ulf Hlobil** /
 *Concordia University*  
-[Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#) 🗣 [See presentation] (*)
+[Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#) 🗣 [See presentation](https://drive.google.com/file/d/1NnnQXA3jY9BlL6S7PXfUJqQHjGMhxFlg/view?usp=sharing)
 
 _Unfinished: Summary coming soon_
 
@@ -66,7 +66,7 @@ _Summary coming soon_
 ### Three Kinds of Logical Expressivism
 **Luca Incurvati** /
 *University of Amsterdam*  
-[Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read paper](https://drive.google.com/file/d/1UFMzqC0-eVpIe_ZPmWeAkgIsOd5NuxwS/view?usp=sharing) 🗣 [See presentation] (*)
+[Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read paper](https://drive.google.com/file/d/1UFMzqC0-eVpIe_ZPmWeAkgIsOd5NuxwS/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1CT-gwVXaYIEMPvrLW0Ewxry2_pcSQqWP/view?usp=sharing)
 
 _Summary coming soon_
 
@@ -132,7 +132,7 @@ _Summary coming soon_
 ### Ascriptivism and Inferentialism: Bridge between Epistemology and Law
 **Karlo Gadavski** /
 *University of Zagreb*  
-[Watch video](https://youtu.be/4X7NcpP8izs) 📄 [Read abstract](#) 🗣 [See presentation] (*)
+[Watch video](https://youtu.be/4X7NcpP8izs) 📄 [Read abstract](#) 🗣 [See presentation](https://docs.google.com/presentation/d/1S7WEyjfMZsndeolDPilkzifQHx9icTgL/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
 _Summary coming soon_
 
@@ -168,7 +168,7 @@ _Summary coming soon_
 ### What makes a material inference valid?
 **Jaakko Reinikainen** /
 *Tampere University*  
-[Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read paper](https://drive.google.com/file/d/1gxkRgawP6oegYjkLvT_iOj7swhBuBAqv/view?usp=sharing) 🗣 [See presentation] (*)
+[Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read paper](https://drive.google.com/file/d/1gxkRgawP6oegYjkLvT_iOj7swhBuBAqv/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1_Ys4H5TTzuwSyEurn0fOpOPggXruGSxX/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
 _Summary coming soon_
 
@@ -231,7 +231,7 @@ _Summary coming soon_
 ### Nature and Artificial Intelligence
 **Ulf Hlobil** /
 *Concordia University*  
-[Watch video](https://youtu.be/7ehlzzhBKnM) 📄 [Read abstract](#) 🗣 [See presentation] (*)
+[Watch video](https://youtu.be/7ehlzzhBKnM) 📄 [Read abstract](#) 🗣 [See presentation](https://drive.google.com/file/d/1KtOv86YQ18jbwvGmbIrbPB6-78e7v8u2/view?usp=sharing)
 
 _Summary coming soon_
 
