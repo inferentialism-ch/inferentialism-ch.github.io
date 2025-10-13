@@ -32,155 +32,22 @@ The event featured contributions from leading scholars and promising early-caree
 
 ## Speakers & Contributions
 
-Below you can find the list of speakers, each linked to their **video**, **paper**, and a short **summary**.  
-(Add your links and summaries under each name.)
+Below you can find the list of speakers, each linked to their **video**, **abstract**, and a short **summary**. 
 
 ---
-
-### Mihai Avrigeanu  
-*Concordia University*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Robert Brandom  
-*University of Pittsburgh*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Kristopher Brown  
-*Topos Institute (Berkeley)*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Thomas Bustamante  
-*Federal University of Minas Gerais*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Pedro Caballero Elbersci  
-*University Iberoamericana, Mexico City*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Damiano Canale  
-*Università Commerciale Luigi Bocconi*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### André Freitas  
-*University of Manchester*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Karlo Gardavski  
-*University of Zagreb*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
-### Rea Golan  
-*Ben-Gurion University of the Negev*  
-🎥 [Watch video](#) 📄 [Read abstract](#)  
-📝 _Summary coming soon_
-
----
-
+## Conceptual Content in Reasons for Logic 
 ### Ulf Hlobil  
 *Concordia University*  
-🎥 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read paper](#)  
-📝 _Summary coming soon_
+[Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#)  
+_Summary coming soon_
 
 ---
 
 ### Luca Incurvati  
 *University of Amsterdam*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
+[Watch video](#) 📄 [Read abstract](#)  
+_Summary coming soon_
 
----
-
-### Bahareh Izadi  
-*Concordia University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Omar Mahmutović  
-*University of Sarajevo*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Joshua Nichols  
-*McGill University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Christina Niklaus  
-*University of St. Gallen*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Jaakko Reinikainen  
-*Tampere University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Marcello Ruta  
-*University of Bern*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Shuhei Shimamura  
-*Nihon University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Ryan Simonelli  
-*Wuhan University*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Emmanuel Voyiakis  
-*LSE Law School*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
-
----
-
-### Patrick Zbinden  
-*University of St. Gallen*  
-🎥 [Watch video](#) 📄 [Read paper](#)  
-📝 _Summary coming soon_
 
 ---
 
