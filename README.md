@@ -25,7 +25,7 @@ The event featured contributions from leading scholars and promising early-caree
 🧭 **Sponsored by:**  
 - University of St. Gallen  
 
-[📄 View the Call For Papers](#)  
+[📄 View the Call For Papers](https://philevents.org/event/show/135617)  
 
 ---
 
