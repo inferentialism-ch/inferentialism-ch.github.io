@@ -38,14 +38,14 @@ Below you can find the list of speakers, each linked to their **video**, **abstr
 **Ulf Hlobil** /
 *Concordia University*  
 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#)  
-_Summary coming soon_
+_Summary and paper coming soon_
 
 ---
 
 ### De dicto entitlement, de re entitlement, and entitlement-dissonance: An inferentialist reading to Jean Paul’s notion of Ridiculous and Hegel’s *Phenomenology of Spirit*
 **Marcello Ruta** /
 *Universität Bern*  
-[Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read abstract](https://drive.google.com/file/d/117_K6nX6O4oPveAc5AakIrGzMxbvuX0y/view?usp=sharing)  
 _Summary coming soon_
 
 
