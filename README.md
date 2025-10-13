@@ -38,14 +38,14 @@ Below you can find the list of speakers, each linked to their **video**, **abstr
 **Ulf Hlobil** /
 *Concordia University*  
 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read abstract](#)  
-_Summary and paper coming soon_
+_Unfinished: Summary coming soon_
 
 ---
 
 ### De dicto entitlement, de re entitlement, and entitlement-dissonance: An inferentialist reading to Jean Paul’s notion of Ridiculous and Hegel’s *Phenomenology of Spirit*
 **Marcello Ruta** /
 *Universität Bern*  
-[Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read abstract](https://drive.google.com/file/d/117_K6nX6O4oPveAc5AakIrGzMxbvuX0y/view?usp=sharing)  
+[Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read paper](https://drive.google.com/file/d/117_K6nX6O4oPveAc5AakIrGzMxbvuX0y/view?usp=sharing)  
 _Summary coming soon_
 
 
@@ -54,7 +54,7 @@ _Summary coming soon_
 ### The Social Articulation of Content: Why Social Externalists Should be Inferentialists and Vice Versa
 **Shuhei Shimamura** /
 *Hiroshima University*  
-[Watch video](https://youtu.be/r5aDHUktA-M) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/r5aDHUktA-M) 📄 [Read paper](https://drive.google.com/file/d/1J7_WgLkP0hP6A0z0cakZr8tJ8LZobj4c/view?usp=sharing)  
 _Summary coming soon_
 
 
@@ -63,7 +63,7 @@ _Summary coming soon_
 ### Three Kinds of Logical Expressivism
 **Luca Incurvati** /
 *University of Amsterdam*  
-[Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read paper](https://drive.google.com/file/d/1UFMzqC0-eVpIe_ZPmWeAkgIsOd5NuxwS/view?usp=sharing)  
 _Summary coming soon_
 
 
@@ -73,7 +73,7 @@ _Summary coming soon_
 **Rea Golan** /
 *Ben-Gurion University of the Negev*  
 [Watch video](https://youtu.be/G2aVnEVlY04) 📄 [Read abstract](#)  
-_Summary coming soon_
+_Unfinished: Summary coming soon_
 
 
 ---
@@ -81,7 +81,7 @@ _Summary coming soon_
 ### Epistemological Normativism and the Expressive Limits of Inferential Logic: Between Sellars and Brandom
 **Omar Mahmutović** /
 *University of Sarajevo*  
-[Watch video](https://youtu.be/4KCbPDQBZEI) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/4KCbPDQBZEI) 📄 [Read paper](https://drive.google.com/file/d/1g5OvFhNCSUEZc8x4CVMTZ5VQp58t3L_1/view?usp=sharing)  
 _Summary coming soon_
 
 
@@ -91,14 +91,14 @@ _Summary coming soon_
 **Robert Brandom** /
 *University of Pittsburgh*  
 [Watch video](https://youtu.be/NsSc5q0d8uA) 📄 [Read abstract](#)  
-_Summary coming soon_
+_Unifinished: Summary coming soon_
 
 ---
 
 ### Institutional Reasons and the Limits of Legal Inferentialism.
 **Damiano Canale** /
 *Università Bocconi*  
-[Watch video](https://youtu.be/Q2GaH--fM9Q) 📄 [Read abstract](#)  
+[Watch video](https://youtu.be/Q2GaH--fM9Q) 📄 [Read paper](https://drive.google.com/file/d/1xvQkbUtVYx3K4sZcFzm8HSyeYixb4s1l/view?usp=sharing)  
 _Summary coming soon_
 
 ---
