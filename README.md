@@ -93,8 +93,72 @@ _Summary coming soon_
 [Watch video](https://youtu.be/NsSc5q0d8uA) 📄 [Read abstract](#)  
 _Summary coming soon_
 
+---
+
+### Institutional Reasons and the Limits of Legal Inferentialism.
+**Damiano Canale** /
+*Università Bocconi*  
+[Watch video](https://youtu.be/Q2GaH--fM9Q) 📄 [Read abstract](#)  
+_Summary coming soon_
 
 ---
+
+### Robert Brandom’s Analytic Pragmatism and the Life of Legal Systems
+**Joshua Nicols** /
+*Coming Soon*  
+[Watch video](https://youtu.be/KH5A7W0bln0) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Incomparable Values in Legal Adjudication
+**Emmanuel Voyiakis** /
+*LSE*  
+[Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Ascriptivism and Inferentialism: Bridge between Epistemology and Law
+**Karlo Gadavski** /
+*University of Zagreb*  
+[Watch video](https://youtu.be/4X7NcpP8izs) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Implication Space Semantics and Legal Methodology
+**Peter Hongler** /
+*University of St. Gallen*  
+[Watch video](https://youtu.be/1-r_RTEyvk0) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Inferentialism, Intersubjective Legal Reasoning and Objectivity in Determining the Content of Legal Norms
+**Pedro Caballero Elbersci** /
+*Universidad Iberoamericana*  
+[Watch video](https://youtu.be/fg80xOUNaLA) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### Strategizing with an LLM: How Large Language Models Influence Logic in Business Discussions
+**Patrick Zbinden** /
+*University of St. Gallen*  
+[Watch video](https://youtu.be/QU_Mwck7H24) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
+### What makes a material inference valid?
+**Jaakko Reinikainen** /
+*Tampere University*  
+[Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read abstract](#)  
+_Summary coming soon_
+
+---
+
 
 ## Organisers
 
