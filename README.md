@@ -4,14 +4,8 @@
 ---
 
 ### Overview
+The international conference **Exploring Reasons, Rationality, and Rationalism** was held at the **University of Zürich** between the 10th and the 13th of September 2025. Ulf Hlobil's and Robert Brandom's new book *Reasons for Logic, Logic for Reasons* was a turning point for inferentialists and inferentialist logic. The conference explored its central insights, and how it may be applied within different disciplines, such as within linguistics, epistemology, natural language processing and law.
 
-We are excited to announce the international conference **Exploring Reasons, Rationality, and Rationalism**, held at the **University of Zürich** between the 10th and the 13th of September 2025.
-
-The recent publication of *"Reasons for Logic, Logic for Reasons"* marked a milestone for the technical and philosophical development of inferentialist logic.  
-This conference offered a first collective take on the book’s reception and its potential operationalization across diverse fields, including the philosophy of language, law, linguistics and information theory.
-
-
-The event featured contributions from leading scholars and promising early-career researchers.
 
 📎 [RRR Conference Program (PDF)](https://philevents.org/event/fileDownload/135581?fileId=18602)
 
@@ -20,9 +14,8 @@ The event featured contributions from leading scholars and promising early-caree
 ### Location & Format
 
 📍 **University of Zürich**, Switzerland  
-💻 Available both **online and in-person**  
 
-🧭 **Sponsored by:**  
+**Sponsored by:**  
 - University of St. Gallen  
 
 [📄 View the Call For Papers](https://philevents.org/event/show/135617)  
