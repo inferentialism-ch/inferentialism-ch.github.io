@@ -256,8 +256,11 @@ _Summary coming soon_
 
 ---
 Website made by Mats Almlid
+
 University of Zürich
+
 Rämistr. 69, CH-8001 Zürich, Switzerland
+
 Email: matsvestues.almlid@uzh.ch
 
 © 2025 University of Zürich · Exploring Reasons, Rationality, and Rationalism  
