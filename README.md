@@ -37,7 +37,7 @@ Below you can find the list of speakers, each linked to their **video**, **abstr
 ### Conceptual Content in Reasons for Logic 
 **Ulf Hlobil** /
 *Concordia University*  
-[Watch video](https://youtu.be/PPAsvhwIqyU) 🗣 [See presentation](https://drive.google.com/file/d/1NnnQXA3jY9BlL6S7PXfUJqQHjGMhxFlg/view?usp=sharing)
+[Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read paper](https://drive.google.com/file/d/168xPWzPbhrqaLjcYWtKkURTLjmfXgROK/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1NnnQXA3jY9BlL6S7PXfUJqQHjGMhxFlg/view?usp=sharing)
 
 _Unfinished: Summary coming soon_
 
