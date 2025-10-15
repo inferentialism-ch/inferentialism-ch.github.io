@@ -108,7 +108,7 @@ _Unifinished: Summary coming soon_
 *Università Bocconi*  
 [Watch video](https://youtu.be/Q2GaH--fM9Q) 📄 [Read paper](https://drive.google.com/file/d/1xvQkbUtVYx3K4sZcFzm8HSyeYixb4s1l/view?usp=sharing)
 
-_Summary coming soon_
+Canale examines how Brandomian inferentialism may be applied to understand practical, and more specifically legal, reasoning. Inferentialism is fundamentally pluralist in its approach, and that may be useful in mapping the different dimensions of practical reasoning. At the same time, Canale emphasises that, as opposed to Brandomian inferentialism, legal reasoning is also determined institutionally, and therefore cannot serve as a general model for the determination of content.
 
 ---
 
