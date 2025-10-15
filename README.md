@@ -89,7 +89,7 @@ Hlobil and Brandom do not take a stand on whether a semantics-first or a pragmat
 *University of Sarajevo*  
 [Watch video](https://youtu.be/4KCbPDQBZEI) 📄 [Read paper](https://drive.google.com/file/d/1g5OvFhNCSUEZc8x4CVMTZ5VQp58t3L_1/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1Hka5LCZcxFnRA8JYuMLcCmUm-agVfM02/view?usp=sharing)
 
-_Summary coming soon_
+Mahmutović investigates the tension between the normative status of reasons and how they are articulated within an inferentalist space of meaning. Brandom emphasises  mastering a base vocabulary, which can make inferential roles in other vocabularies explicit, but this raises a question of whether positing a universal expressive vocabulary risks reintroducing a sense of epistemic "givenness", as it is found within the works of Wilfrid Sellars. In this regard, Mahmutović argues for an open inferentialism in which no one vocabulary is granted a privileged status.
 
 
 ---
@@ -114,10 +114,10 @@ _Summary coming soon_
 
 ### Brandom’s Hegelian Model: What It Can Offer and What It Rules Out in the Legal Domain
 **Thomas Bustamente** /
-*Coming Soon*  
+*Federal University of Minais Gerais*  
 [Watch video](https://youtu.be/KH5A7W0bln0) 📄 [Read paper](https://drive.google.com/file/d/1Hdjey8qy8-b7CohxKaeUx3VpcD8JLpV6/view?usp=sharing)
 
-_Unifinished: Summary and paper coming soon_
+Bustamente asks the question of what Brandom's understanding of Hegelian rationality, which rejects both treating norms as prior to practice and grounding legal authority in participants' attitudes, can offer to legal studies. Bustamente suggests that most theories of legal authority fail because they try to make sense of legal concepts through an account of legal authority without recognizing the suitable contemplation of others, and proposes that Brandom's Hegel remedies this problem through a social holism, being a third position that is neither natural law jurisprudence nor legal positivism. Finally, he argues that Ronald Dworkin's jurisprudence is compatible with such a model of legal authority.
 
 ---
 
@@ -126,7 +126,7 @@ _Unifinished: Summary and paper coming soon_
 *LSE*  
 [Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read paper](https://drive.google.com/file/d/12pKhyI1sq90WObt7REUIOKYGKwFZmrFq/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1v9Q3uCdav_p9JshX47MM2Uj5GDB7V68V/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+Voyiakis discusses the problem of incomparable values in legal adjudication, as a judge making legal decisions on the basis of values that do not compare to one another is difficult at best, and impossible at worst. He claims that earlier accounts by Philip Sales and Frederick Wilmot-Smith of this problem leads to the a problem of individuation, as they assume ordering incomparable values is the only solution. Voyiakis instead suggests that the right question to ask is whether any of the values are sufficiently strong to object against the reasons a judge used to reach their decision.
 
 ---
 
@@ -135,7 +135,7 @@ _Summary coming soon_
 *University of Zagreb*  
 [Watch video](https://youtu.be/4X7NcpP8izs) 🗣 [See presentation](https://docs.google.com/presentation/d/1S7WEyjfMZsndeolDPilkzifQHx9icTgL/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+Gadavski argues that H. L. A. Hart's work may be read as bridging law, semantics and epistemology. He claims that Michael William's intepretation of Hart, and more specifically William's concept of the "Accredited Subject", may be a conceptual bridge in this regard. Furthermore, by introducing Brandom's idea of a deontic meta-vocabulary, Gadavski proposes a unified theory of how normative statuses are conferred.
 
 ---
 
