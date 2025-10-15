@@ -69,7 +69,7 @@ Shimamura adresses the worry by Fodor and Lepore that inferentialism makes meani
 *University of Amsterdam*  
 [Watch video](https://youtu.be/C3m6ipSp8zs) 📄 [Read paper](https://drive.google.com/file/d/1UFMzqC0-eVpIe_ZPmWeAkgIsOd5NuxwS/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1CT-gwVXaYIEMPvrLW0Ewxry2_pcSQqWP/view?usp=sharing)
 
-_Summary coming soon_
+Incurvati distinguishes between three forms of logical expressivism: attitude expressivism, content expressivism and inferential expressivism. He argues that inferential expressivism represents the best of both worlds by claiming that logical vocabulary serves the function of making explicit commitments to expressions of attitudes.
 
 
 ---
