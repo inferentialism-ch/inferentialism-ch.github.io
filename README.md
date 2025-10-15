@@ -40,7 +40,7 @@ _Unfinished: Summary coming soon_
 *McGill University*  
 📄 [Read paper](https://drive.google.com/file/d/1GgTA9SCG08ceJzVTJuC0ACH15f7lEsDA/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1-x1CVaafsuakzNa9U2fSyhDtoO8fhxK0/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Unfinished: Summary coming soon_
+Nichols reinterprets Hart’s theory of law through a inferentialist framework, as he argues that Hart’s epistemological commitments, combining empiricist epistemology and ordinary language philosophy, are unstable. Nichols therefore suggests retrofitting Hart’s legal theory, so as to ground it within social and linguistic practices.
 
 ---
 
@@ -144,7 +144,7 @@ Gadavski argues that H. L. A. Hart's work may be read as bridging law, semantics
 *University of St. Gallen*  
 [Watch video](https://youtu.be/1-r_RTEyvk0) 📄 [Read paper](https://drive.google.com/file/d/18U7O7Y-tKlIrxi3aT53ipkFQyt8DbdV7/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1yKpuxaKHxDiEVG1qeOjsjyU4j-1OUtZG/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+Hongler presents a more robust form of legal interpretation through the tool that is implication space semantics. Framing intepretation as illuminating a space of premises and conclusions, it both describes what lawyers do, as well as what they ought to do. Furthermore, Hongler emphasises that LLMs may contribute to the process of mapping such spaces, fundamentally changing how lawyers work.
 
 ---
 
