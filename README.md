@@ -59,7 +59,7 @@ Ruta argues that Brandom's concept of entitlement ought to be subdivided into de
 *Hiroshima University*  
 [Watch video](https://youtu.be/r5aDHUktA-M) 📄 [Read paper](https://drive.google.com/file/d/1J7_WgLkP0hP6A0z0cakZr8tJ8LZobj4c/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1Dwzk567R6qccvbcbvVLXWEe_O91-AdEo/view?usp=sharing)
 
-_Summary coming soon_
+Shimamura adresses the worry by Fodor and Lepore that inferentialism makes meaning unstable. In this regard, Shimamura argues that social externalism, as formulated by Tyler Burge, adresses the problems, and can separate subjunctively robustly correct inferences from incorrect ones. That is, in response to Fodor and Lepore, material inferences are conceived of as being socially articulated through the linguistic community.
 
 
 ---
@@ -198,7 +198,7 @@ Category theory has many parallells with inferentialist philosophy. But while ca
 *Concordia University*  
 [Watch video](https://youtu.be/B0UeIZEkr8U)
 
-_Summary coming soon_
+Avrigeanu takes inferentialism to assume that language precedes intelligibility, and argues that inferentialism defines intelligence post-hoc, instead of recognizing it as an emergent motion. He suggest repositing inferentialism, so as to reflect the collapse between being and saying. Drawing from a Spinozist system of metaphysics, he takes inferences to be what remains after language forgets that it was not the origin.
 
 ---
 
@@ -207,7 +207,7 @@ _Summary coming soon_
 *Concordia University*  
 [Watch video](https://youtu.be/QSBgcX4Sfhc) 📄 [Read paper](https://drive.google.com/file/d/1RERw-42TIpmEYUmUdbTzIeBa3fobyjj7/view?usp=sharing)
 
-_Summary coming soon_
+Izadi argues that LLMs are unable to participate in the game of giving and asking for reasons. Her reasoning for this is that participating in the game of giving and asking for reasons requires being able to recognize others as authorities holding one to account, being able to undertake commitments and having a normative standing within the lingustic community. As LLMs are unable to do any of these three, they cannot be considered participants in the game of giving and asking for reasons.
 
 ---
 
