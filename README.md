@@ -49,7 +49,7 @@ _Unfinished: Summary coming soon_
 *Universität Bern*  
 [Watch video](https://youtu.be/gf-P0jdWags) 📄 [Read paper](https://drive.google.com/file/d/117_K6nX6O4oPveAc5AakIrGzMxbvuX0y/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1qEizDixV9Gsvhn9_G4hABjfTo1ZQjw8f/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+Ruta argues that Brandom's concept of entitlement ought to be subdivided into de dicto and de re entitlement. He argues that situations interpreted by Jean Paul through the concept of the ridiculous (*das Lächerliche*) can be understood through the difference between de dicto and de re entitlement, in which one may experience entitlement-dissonance. Furthermore, Ruta claims that we can understand entitlement-dissonance to drive the progression of concsciousness within Hegel's *Phenomenology*.
 
 
 ---
@@ -79,7 +79,7 @@ _Summary coming soon_
 *Ben-Gurion University of the Negev*  
 [Watch video](https://youtu.be/G2aVnEVlY04) 🗣 [See presentation](https://drive.google.com/file/d/1E-CHNbw6OvrP3E5zW12BgvU8dCQb7w5q/view?usp=sharing)
 
-_Unfinished: Summary coming soon_
+Hlobil and Brandom do not take a stand on whether a semantics-first or a pragmatics-first order of explanation is to prefer. And while there has been much criticism of a semantics-first approach, there has not been the same level of criticism directed towards a pragmatics-first approach. However, in his presentation, Golan argues that a pragmatic-first explanation is insufficient, and that it is not possible to reduce linguistic content to linguistic behavior governed by norms.
 
 
 ---
@@ -162,7 +162,7 @@ _Summary coming soon_
 *University of St. Gallen*  
 [Watch video](https://youtu.be/QU_Mwck7H24) 🗣 [See presentation](https://docs.google.com/presentation/d/1M5qAgMtqauoCqdnVnC72XS9MeQ11qY36/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+Most research on LLM's reasoning capabilities focus on written, rather than spoken, interactions between humans and LLMs. Therefore, Zbinden investigates how LLMs may influence the logic of business decisions, and through an experiement, it is shown that there are significant differences between humans talking with other humans, ChatGPT-4o on the phone and ChatGPT-4o operating through a robot about strategic options. The results indicate that  humans talking with ChatGPT-4o on the phone are more logical than decisions made by humans discussing with other humans.
 
 ---
 
@@ -171,7 +171,7 @@ _Summary coming soon_
 *Tampere University*  
 [Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read paper](https://drive.google.com/file/d/1gxkRgawP6oegYjkLvT_iOj7swhBuBAqv/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1_Ys4H5TTzuwSyEurn0fOpOPggXruGSxX/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-_Summary coming soon_
+According to Brandomian inferentialism, implicit norms ultimately determine conceptual contents. In his presentation, Reinikaien attempts to formulate the argument Brandom uses to support this idea, terming it the "Always Already"-argument, as well as show how this argument does not defeat a sceptical position in relation to norms.
 
 ---
 
@@ -180,7 +180,7 @@ _Summary coming soon_
 *Wuhan University*  
 [Watch video](https://youtu.be/_kaOeC9q-EU)
 
-_Summary coming soon_
+It is believed by many that LLMs are incapable of having concepts. Simonelli argues that, on the basis of global strong inferentialism, training on nothing but linguistic data is sufficient to master drawing inferences, and as such that LLMs should be ascribed the ability to have concepts. LLMs are therefore taken to be non-sentient sapient beings.
 
 ---
 
@@ -189,7 +189,7 @@ _Summary coming soon_
 *Topos Institute*  
 [Watch video](https://youtu.be/gpjISWcppko)
 
-_Summary coming soon_
+Category theory has many parallells with inferentialist philosophy. But while categorical logic has been remarkably successful in understanding the structural relationships of logic, it takes the arrow of a category to play the role of judgments, and as such is restricted to merely transitive forms of consequence. Therefore, Brown suggests that taking virtual double categories as generalizations of categories which allows composition to be a property, may be of use to defining an implication frame.
 
 ---
 
