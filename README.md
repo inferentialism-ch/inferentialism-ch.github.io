@@ -216,7 +216,7 @@ Izadi argues that LLMs are unable to participate in the game of giving and askin
 *University of Zurich*  
 [Watch video](https://youtu.be/9Xu2WjYh3vw) 🗣 [See presentation](https://drive.google.com/file/d/1QMdrPUCITmU1o2MUs6pQgozfWU2nJyuX/view?usp=sharing)
 
-_Summary coming soon_
+Gubelmann argues that participating in norm-governed practices requires a teleological double structure - the ability to set, and sometimes violate, one's own goals. Crediting software, including LLMs, with this ability presupposes a dualism, but even if we were to accept this, the mental side of said dualism seems unable to have goals. Therefore, software might not be able to engage in norm-governed practices.
 
 ---
 
