@@ -99,7 +99,7 @@ Mahmutović investigates the tension between the normative status of reasons and
 *University of Pittsburgh*  
 [Watch video](https://youtu.be/NsSc5q0d8uA)
 
-_Unifinished: Summary coming soon_
+In his presentation, Brandom outlines a particular version of what he terms conceptual realism, which understands conceptual form through both what is represented as well as through the representings in virtue of their common content. He contextualizes his position within a broad historical trajectory, drawing key insights from early modern philosophy and all the way up to contemporary philosophy.
 
 ---
 
