@@ -234,7 +234,7 @@ _Summary coming soon_
 *Concordia University*  
 [Watch video](https://youtu.be/7ehlzzhBKnM) 🗣 [See presentation](https://drive.google.com/file/d/1KtOv86YQ18jbwvGmbIrbPB6-78e7v8u2/view?usp=sharing)
 
-_Summary coming soon_
+Hlobil argues that while AI may be of help when it comes to formalize arguments, AI systems cannot genuinely follow norms unless their nature sets a standard of well-being for them. He argues for his position by relying on the notion of AI not being subject to punishment, and through a reinterpretation of Kripkenstein's paradox.
 
 ---
 
