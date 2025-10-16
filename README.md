@@ -24,7 +24,7 @@ The international conference **Exploring Reasons, Rationality, and Rationalism**
 
 ## Speakers & Contributions
 
-Below you can find the list of speakers, each linked to their **video**, **abstract**, and a short **summary**. 
+Below you can find the list of speakers and links to the relevant materials.
 
 ---
 ### Conceptual Content in Reasons for Logic 
