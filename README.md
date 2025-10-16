@@ -153,7 +153,7 @@ Hongler presents a more robust form of legal interpretation through the tool tha
 *Universidad Iberoamericana*  
 [Watch video](https://youtu.be/fg80xOUNaLA)
 
-_Summary coming soon_
+Elbersci proposes a new notion of legal norms, drawing on the meta-theoretical level from a deflationist meta-ontology, neo-pragmatism, a socio-normativist pragmatics and an inferentialist semantics. With such a notion, Elbersci claims that we are left with a beneficial explanatory consequence regarding objectively identifying the meaning of legal norms.
 
 ---
 
@@ -225,7 +225,7 @@ Gubelmann argues that participating in norm-governed practices requires a teleol
 *University of Manchester*  
 [Watch video](https://youtu.be/xN0VsOxHkDo)
 
-_Summary coming soon_
+Freitas asks the question of whether LLMs reason or not. He argues that while LLMs are not yet formal reasoners, they are quite decent when it comes to material inferences, even though such notion needs to be better qualified.
 
 ---
 
