@@ -225,7 +225,7 @@ Gubelmann argues that participating in norm-governed practices requires a teleol
 *University of Manchester*  
 [Watch video](https://youtu.be/xN0VsOxHkDo)
 
-Freitas asks the question of whether LLMs reason or not. He argues that while LLMs are not yet formal reasoners, they are quite decent when it comes to material inferences, even though such notion needs to be better qualified.
+Freitas asks the question of whether LLMs reason or not. He argues that while LLMs are not yet formal reasoners, they are quite decent when it comes to material inferences, even though he takes it that such a notion of material inference needs to be better qualified.
 
 ---
 
