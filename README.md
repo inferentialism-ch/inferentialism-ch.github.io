@@ -27,20 +27,13 @@ The international conference **Exploring Reasons, Rationality, and Rationalism**
 Below you can find the list of speakers as well as links to their contributions.
 
 ---
+
 ### Conceptual Content in Reasons for Logic 
 **Ulf Hlobil** /
 *Concordia University*  
 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read paper](https://drive.google.com/file/d/168xPWzPbhrqaLjcYWtKkURTLjmfXgROK/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1NnnQXA3jY9BlL6S7PXfUJqQHjGMhxFlg/view?usp=sharing)
 
 Hlobil develops a implication-space semantics that includes first-order quantification, while nevertheless preserving the inferentialist idea that meaning is constituted from inferences. The open structured inferentialism that he discusses accommodates non-monotonic and non-transitive ways of reasoning.
-
----
-### Reconciliation and the Spectre of Legal Skepticism: A Pragmatist Reading of Rule-Following and Legal Authority from Hart to Brandom  
-**J. B. D. Nichols** /
-*McGill University*  
-📄 [Read paper](https://drive.google.com/file/d/1GgTA9SCG08ceJzVTJuC0ACH15f7lEsDA/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1-x1CVaafsuakzNa9U2fSyhDtoO8fhxK0/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
-
-Nichols reinterprets Hart’s theory of law through an inferentialist framework, as he argues that Hart’s epistemological commitments, combining empiricist epistemology and ordinary language philosophy, are unstable. Nichols therefore suggests retrofitting Hart’s legal theory, so as to ground it within social and linguistic practices.
 
 ---
 
