@@ -32,7 +32,7 @@ Below you can find the list of speakers as well as links to their contributions.
 *Concordia University*  
 [Watch video](https://youtu.be/PPAsvhwIqyU) 📄 [Read paper](https://drive.google.com/file/d/168xPWzPbhrqaLjcYWtKkURTLjmfXgROK/view?usp=sharing) 🗣 [See presentation](https://drive.google.com/file/d/1NnnQXA3jY9BlL6S7PXfUJqQHjGMhxFlg/view?usp=sharing)
 
-Hlobil develops a implication-space semantics that includes first-order quantification, while nevertheless preserves the inferentialist idea that meaning is constituted from inferences. The open structured inferentialism that he discusses accommodates non-monotonic and non-transitive ways of reasoning.
+Hlobil develops a implication-space semantics that includes first-order quantification, while nevertheless preserving the inferentialist idea that meaning is constituted from inferences. The open structured inferentialism that he discusses accommodates non-monotonic and non-transitive ways of reasoning.
 
 ---
 ### Reconciliation and the Spectre of Legal Skepticism: A Pragmatist Reading of Rule-Following and Legal Authority from Hart to Brandom  
@@ -40,7 +40,7 @@ Hlobil develops a implication-space semantics that includes first-order quantifi
 *McGill University*  
 📄 [Read paper](https://drive.google.com/file/d/1GgTA9SCG08ceJzVTJuC0ACH15f7lEsDA/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1-x1CVaafsuakzNa9U2fSyhDtoO8fhxK0/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-Nichols reinterprets Hart’s theory of law through a inferentialist framework, as he argues that Hart’s epistemological commitments, combining empiricist epistemology and ordinary language philosophy, are unstable. Nichols therefore suggests retrofitting Hart’s legal theory, so as to ground it within social and linguistic practices.
+Nichols reinterprets Hart’s theory of law through an inferentialist framework, as he argues that Hart’s epistemological commitments, combining empiricist epistemology and ordinary language philosophy, are unstable. Nichols therefore suggests retrofitting Hart’s legal theory, so as to ground it within social and linguistic practices.
 
 ---
 
@@ -126,7 +126,7 @@ Bustamente asks the question of what Brandom's understanding of Hegelian rationa
 *LSE*  
 [Watch video](https://youtu.be/JIkLU_x6AHg) 📄 [Read paper](https://drive.google.com/file/d/12pKhyI1sq90WObt7REUIOKYGKwFZmrFq/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1v9Q3uCdav_p9JshX47MM2Uj5GDB7V68V/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-Voyiakis discusses the problem of incomparable values in legal adjudication, as a judge making legal decisions on the basis of values that do not compare to one another is difficult at best, and impossible at worst. He claims that earlier accounts by Philip Sales and Frederick Wilmot-Smith of this problem leads to the a problem of individuation, as they assume ordering incomparable values is the only solution. Voyiakis instead suggests that the right question to ask is whether any of the values are sufficiently strong to object against the reasons a judge used to reach their decision.
+Voyiakis discusses the problem of incomparable values in legal adjudication, as a judge making legal decisions on the basis of values that do not compare to one another is difficult at best, and impossible at worst. He claims that earlier accounts of thi problem, by Philip Sales and Frederick Wilmot-Smith, leads to the a problem of individuation, as they assume ordering incomparable values is the only solution. Voyiakis instead suggests that the right question to ask is whether any of the values are sufficiently strong to object against the reasons a judge used to reach their decision.
 
 ---
 
@@ -162,7 +162,7 @@ Elbersci proposes a new notion of legal norms, drawing on the meta-theoretical l
 *University of St. Gallen*  
 [Watch video](https://youtu.be/QU_Mwck7H24) 🗣 [See presentation](https://docs.google.com/presentation/d/1M5qAgMtqauoCqdnVnC72XS9MeQ11qY36/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-Most research on LLM's reasoning capabilities focus on written, rather than spoken, interactions between humans and LLMs. Therefore, Zbinden investigates how LLMs may influence the logic of business decisions, and through an experiement, it is shown that there are significant differences between humans talking with other humans, ChatGPT-4o on the phone and ChatGPT-4o operating through a robot about strategic options. The results indicate that  humans talking with ChatGPT-4o on the phone are more logical than decisions made by humans discussing with other humans.
+Most research on LLM's reasoning capabilities focus on written, rather than spoken, interactions between humans and LLMs. Therefore, Zbinden investigates how LLMs may influence the logic of business decisions, and through an experiement, it is shown that there are significant differences between humans talking with other humans, ChatGPT-4o on the phone and ChatGPT-4o operating through a robot about strategic options. The results indicate that  decisions made by humans talking with ChatGPT-4o on the phone are more logical than decisions made by humans discussing with other humans.
 
 ---
 
