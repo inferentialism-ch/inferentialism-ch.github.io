@@ -164,7 +164,7 @@ Most research on LLM's reasoning capabilities focus on written, rather than spok
 *Tampere University*  
 [Watch video](https://youtu.be/eh4z-YM370Y) 📄 [Read paper](https://drive.google.com/file/d/1gxkRgawP6oegYjkLvT_iOj7swhBuBAqv/view?usp=sharing) 🗣 [See presentation](https://docs.google.com/presentation/d/1_Ys4H5TTzuwSyEurn0fOpOPggXruGSxX/edit?usp=sharing&ouid=103385238966618120034&rtpof=true&sd=true)
 
-According to Brandomian inferentialism, implicit norms ultimately determine conceptual contents. In his presentation, Reinikaien attempts to formulate the argument Brandom uses to support this idea, terming it the "Always Already"-argument, as well as show how this argument does not defeat a sceptical position in relation to norms.
+According to Brandomian inferentialism, implicit norms ultimately determine conceptual contents. In his presentation, Reinikainen attempts to formulate the argument Brandom uses to support this idea, terming it the "Always Already"-argument, as well as show how this argument does not defeat a sceptical position in relation to norms.
 
 ---
 
